@@ -1,0 +1,29 @@
+.card {
+    width: 500px;
+    background-color: steelblue;
+    border: 3px solid black;
+    margin: 20px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.texto {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.titulo{
+    font-size: 30px;
+}
+
+.mensagem{
+    font-style: italic;
+}
